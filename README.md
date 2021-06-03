@@ -6,11 +6,11 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Kevin Chow
 
-## Student ID    : 
+## Student ID    : 883969032
 
-## Student Email : 
+## Student Email : kevin.chow.535@my.csun.edu
 
 ## Purpose of Repository
 
